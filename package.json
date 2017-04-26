@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  [wscat (v2.0.0)](https://github.com/websockets/wscat#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wscat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wscat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wscat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wscat)",
+    "description": "#### basic api documentation for  [wscat (v2.0.1)](https://github.com/websockets/wscat#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wscat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wscat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wscat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wscat)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha",
@@ -35,5 +35,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.26"
 }

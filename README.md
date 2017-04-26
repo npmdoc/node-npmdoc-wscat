@@ -1,6 +1,6 @@
 # npmdoc-wscat
 
-#### api documentation for  [wscat (v2.0.0)](https://github.com/websockets/wscat#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wscat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wscat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wscat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wscat)
+#### basic api documentation for  [wscat (v2.0.1)](https://github.com/websockets/wscat#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-wscat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wscat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wscat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wscat)
 
 #### WebSocket cat
 
@@ -34,16 +34,16 @@
         "commander": "~2.9.0",
         "read": "~1.0.7",
         "tinycolor": "~0.0.1",
-        "ws": "~2.1.0"
+        "ws": "~2.3.0"
     },
     "description": "WebSocket cat",
     "devDependencies": {},
     "directories": {},
     "dist": {
-        "shasum": "40089a66e845c8abd7c1ac8a818f3be0c42be961",
-        "tarball": "https://registry.npmjs.org/wscat/-/wscat-2.0.0.tgz"
+        "shasum": "73193c2293e02cc2e2766e2995f12cec95a05dae",
+        "tarball": "https://registry.npmjs.org/wscat/-/wscat-2.0.1.tgz"
     },
-    "gitHead": "c5a99e8b287a6cde99b7e73cf6aa3382e0dfcfb6",
+    "gitHead": "d419f8dd8af344375be28723d9363d0ad6780326",
     "homepage": "https://github.com/websockets/wscat#readme",
     "keywords": [
         "wscat",
@@ -75,7 +75,7 @@
     "scripts": {
         "test": "echo \"No test specified\""
     },
-    "version": "2.0.0"
+    "version": "2.0.1"
 }
 ```
 
